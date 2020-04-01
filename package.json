@@ -1,0 +1,21 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "To-Do List ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Bharti",
+  "license": "ISC",
+  "engines": {
+    "node": "12.13.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.12"
+  }
+}
